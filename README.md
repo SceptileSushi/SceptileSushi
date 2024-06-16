@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SceptileSushi
-- 👀 I’m interested in learning Python, HTML/CSS & Javascript and I'm deciding to learn either Java or C#
 - 🌱 I’m currently learning Python
 - 📫 How to reach me 
 
